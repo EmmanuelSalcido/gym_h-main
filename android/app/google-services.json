@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462400479446",
+    "project_id": "gym-h-a93dc",
+    "storage_bucket": "gym-h-a93dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462400479446:android:f5fe499487b444248e2977",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSS-vYdlMw7HXT06b-ChH27TZ5gvvh2sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
